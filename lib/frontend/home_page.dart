@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
         children: [
           Container(
               padding: const EdgeInsets.all(20),
-              child: const Text("Welcome to Split-it!")),
+              child: const Text("Welcome to Reken!")),
           Center(
               child: ElevatedButton(
                   onPressed: () =>

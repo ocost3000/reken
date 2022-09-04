@@ -3,7 +3,7 @@ import 'dart:collection';
 import 'package:flutter/material.dart';
 import 'package:money2/money2.dart';
 import 'package:reken/backend/currencies.dart';
-import 'package:reken/backend/recipe_item.dart';
+import 'package:reken/backend/receipt_item.dart';
 import 'package:reken/frontend/receipt.dart';
 
 class Calculator extends StatefulWidget {
